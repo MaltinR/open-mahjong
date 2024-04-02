@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenMahjong", "OpenMahjong\OpenMahjong.csproj", "{86F6D7DA-51F2-418B-BEB7-33DB24808D94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{23448EEE-CA65-45AC-B8E9-E8429104AA16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F6D7DA-51F2-418B-BEB7-33DB24808D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F6D7DA-51F2-418B-BEB7-33DB24808D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F6D7DA-51F2-418B-BEB7-33DB24808D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F6D7DA-51F2-418B-BEB7-33DB24808D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23448EEE-CA65-45AC-B8E9-E8429104AA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23448EEE-CA65-45AC-B8E9-E8429104AA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23448EEE-CA65-45AC-B8E9-E8429104AA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23448EEE-CA65-45AC-B8E9-E8429104AA16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E08BCAC7-4E1C-4078-A198-C612C0EE5BB0}
+	EndGlobalSection
+EndGlobal

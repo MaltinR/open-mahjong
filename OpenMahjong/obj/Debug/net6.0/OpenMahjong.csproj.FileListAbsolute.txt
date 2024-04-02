@@ -1,0 +1,11 @@
+D:\OpenMahjong\OpenMahjong\bin\Debug\net6.0\OpenMahjong.deps.json
+D:\OpenMahjong\OpenMahjong\bin\Debug\net6.0\OpenMahjong.dll
+D:\OpenMahjong\OpenMahjong\bin\Debug\net6.0\OpenMahjong.pdb
+D:\OpenMahjong\OpenMahjong\obj\Debug\net6.0\OpenMahjong.GeneratedMSBuildEditorConfig.editorconfig
+D:\OpenMahjong\OpenMahjong\obj\Debug\net6.0\OpenMahjong.AssemblyInfoInputs.cache
+D:\OpenMahjong\OpenMahjong\obj\Debug\net6.0\OpenMahjong.AssemblyInfo.cs
+D:\OpenMahjong\OpenMahjong\obj\Debug\net6.0\OpenMahjong.csproj.CoreCompileInputs.cache
+D:\OpenMahjong\OpenMahjong\obj\Debug\net6.0\OpenMahjong.dll
+D:\OpenMahjong\OpenMahjong\obj\Debug\net6.0\refint\OpenMahjong.dll
+D:\OpenMahjong\OpenMahjong\obj\Debug\net6.0\OpenMahjong.pdb
+D:\OpenMahjong\OpenMahjong\obj\Debug\net6.0\ref\OpenMahjong.dll
